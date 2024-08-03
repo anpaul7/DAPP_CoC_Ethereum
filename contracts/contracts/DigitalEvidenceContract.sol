@@ -20,7 +20,7 @@ contract DigitalEvidenceContract {
     address public  owner; //wallet that deployment contract
     string public nameContract;
 
-    constructor(){
+    constructor(){ 
         nameContract = "Contract for recording of digital evidence Udenar";
         owner = msg.sender; //who deployed contract
         nextId = 0;

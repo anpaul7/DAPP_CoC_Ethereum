@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lite-server": "^2.6.1"
+  },
+  "name": "dapp_coc_ethereum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

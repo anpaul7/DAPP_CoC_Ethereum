@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(38, 37, 56);
+    color: rgb(255, 255, 255);
+}
+h1{
+    /* background-color: darkcyan; */
+   background-color: darkcyan;
+   color: rgb(255, 255, 255);
+}
+h2{
+    /* background-color: darkcyan; */
+   color: rgb(219, 219, 219);
+}
+.color-yellow{
+    color: rgb(255, 255, 61);
+}
+.color-red{
+    color: rgb(218, 26, 26);
+}
